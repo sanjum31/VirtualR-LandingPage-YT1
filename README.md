@@ -1,2 +1,2 @@
 YT1
-[VirtualR_LandingPage]([virtual-4c2d64.netlify.app](https://virtual-4c2d64.netlify.app/))
+[VirtualR_LandingPage](https://virtual-4c2d64.netlify.app/))
